@@ -1,0 +1,23 @@
+
+hpeesofsim (*) 510.shp Jul 22 2019, MINT version 5
+    (64-bit windows built: Mon Jul 22, 2019 22:53:59 +0000)
+
+
+SP SP1[1] <Coupler_lib:Coupler_schematic:schematic>   freq=(1 GHz->3 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000070) < MinRecommendValue(0.000300) OR UserValue > MaxRecommendValue(0.009000) for 'W' in `Corn6'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000070) < MinRecommendValue(0.000300) OR UserValue > MaxRecommendValue(0.009000) for 'W' in `Corn5'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000070) < MinRecommendValue(0.000300) OR UserValue > MaxRecommendValue(0.009000) for 'W' in `Corn3'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000070) < MinRecommendValue(0.000300) OR UserValue > MaxRecommendValue(0.009000) for 'W' in `Corn2'
+
+
+
+Resource usage:
+  Total stopwatch time     =     0.34 seconds.
+
